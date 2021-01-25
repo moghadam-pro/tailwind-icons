@@ -1,4 +1,4 @@
-# Tailwind icon outline filled and optimize for font icon
+# Tailwind @font-face
 
 A set of free MIT-licensed high-quality font icons pack for UI development.
 
