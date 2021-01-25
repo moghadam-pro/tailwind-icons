@@ -2,9 +2,9 @@
 
 A set of free MIT-licensed high-quality font icons pack for UI development.
 
-Tailwind icons convert and optimaized for fully standard view and size in font icon pack (font-face).
+Heroicons SVG icons convert and optimaized for fully standard view and size in font icon pack (font-face).
 
-### both outline and solid in one
+### both outline and solid in one resource
 
 225 icons on font file with all type you need to use, more to come in the future.
 
